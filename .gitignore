@@ -1,0 +1,6 @@
+/node_modules
+.env
+/coverage
+/utils/tests
+reset_test_db.js
+play_with_http.js
